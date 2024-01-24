@@ -30,6 +30,5 @@ Before going further, be aware that **a single secret can be seen in multiple pl
 
 Of course, these are not the only types of secrets that we support. You can find an exhaustive list of our detectors in our [secrets detection engine documentation](https://docs.gitguardian.com/secrets-detection/home).
 
-
 > :owl: [GitGuardian](https://www.gitguardian.com/) is an automated secrets detection service.
 We help developers and security teams secure the modern software development process.
